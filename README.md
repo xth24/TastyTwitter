@@ -9,6 +9,7 @@ TastyTwitter was designed with the following capabilities (note that due to API 
 - Tweeting, retweeting, and liking.
 - Follow and unfollow capabilities.
 - Profile customization.
+- ...
 
 ## Disclamer
 
